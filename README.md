@@ -10,7 +10,7 @@ LCD_display
 
 # Setting up the password
 change the PW string in the source code to set the Password
-Default password is "1234"
+Default password is "12344321"
 
 # Keypad
 In the simulation, the push buttons(SPST) are treated as the 4x1 keypad 
